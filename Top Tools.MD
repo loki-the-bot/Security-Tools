@@ -1,12 +1,4 @@
-# Digital Forensics Tools
-
-Welcome to the Digital Forensics Tools repository! This curated list contains a comprehensive collection of tools used in digital forensics, covering a wide range of areas including disk forensics, memory forensics, network monitoring, Windows artifact analysis, data extraction, data recovery, specialized tools, and OSINT (Open Source Intelligence) tools.
-
-## Purpose
-This repository aims to serve as a valuable resource for digital forensics practitioners, investigators, researchers, and enthusiasts who are seeking to discover, explore, and utilize various tools to conduct forensic investigations effectively.
-
-## Contents
-The tools are organized into the following categories:
+## The tools are organized into the following categories:
 
 | Category                | Tools                                                                                                                     |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------|
